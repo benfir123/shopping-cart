@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card item renders correct product title 1`] = `
+<div>
+  <div
+    class="card-item"
+  >
+    <img
+      alt=""
+      src=""
+    />
+    <h4>
+      Title goes here
+    </h4>
+    <p>
+      $299
+    </p>
+    <button>
+      -
+    </button>
+    <input
+      id=""
+      name="quantity"
+      type="number"
+    />
+    <button>
+      +
+    </button>
+    <button>
+      Add To Cart
+    </button>
+  </div>
+</div>
+`;
